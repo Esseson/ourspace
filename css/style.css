@@ -198,7 +198,6 @@ header .top ul.social-network li a {
 	-webkit-transition: width 0.3s;
 	-moz-transition: width 0.3s;
 	transition: width 0.3s;
-	-webkit-backface-visibility: hidden;
 }
 
 .sb-search-input {
@@ -299,11 +298,32 @@ header .top ul.social-network li a {
 
 .properties{
 	padding-top: 120px;
-	width: 600px;
+	width: 700px;
+	border-bottom: 2px red solid;
+
 }
 
 .address{
 	background: green;
+	float: center;
+	letter-spacing: 1px;
+}
+
+h2{
+	color: black;
+	float: center;
+	
+}
+
+
+h5{
+	color: white;
+}
+h6{
+	color: black;
+}
+p{
+	color: black;
 }
 
 
@@ -636,6 +656,7 @@ section.callaction {
 .cta-text h2 {
 	font-weight:900;
 	line-height:1.1em;
+
 }
 .cta-btn {
 	float:right;
