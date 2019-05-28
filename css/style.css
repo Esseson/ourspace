@@ -265,7 +265,6 @@ header .top ul.social-network li a {
 	z-index: 90;
 	font-size: 14px;
 	font-family: 'FontAwesome';
-	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
@@ -1891,9 +1890,7 @@ footer ul.social-network li i {
 	padding:0;
 }
 
-#sub-footer span{
 
-}
 
 .copyright {
 	text-align:left;
